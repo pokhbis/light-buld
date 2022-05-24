@@ -1,0 +1,20 @@
+.container{
+    width: 700px;
+    height: 600px;
+    margin: 50px auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.bulb-off{
+    width: 265px;
+    height: 400px;
+    background: url('bulb-off.png') no-repeat;
+    margin: auto;
+}
+.bulb-on{
+    width: 265px;
+    height: 400px;
+    background: url('bulb-on.png') no-repeat;
+    margin: auto;
+}
